@@ -11,6 +11,7 @@ export class PaisTablaComponent {
 
 
   @Input('paises') paises : Country[] = [];  //Para este caso se reciben datos desde el componente por-pais-component.ts
+  // @Input('capitales') capitales : Capital[] = [];  //Para este caso se reciben datos desde el componente por-pais-component.ts
 
 
 
